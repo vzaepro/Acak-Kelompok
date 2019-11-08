@@ -29,7 +29,7 @@ if(37 % $jumlah == 1 ) { // 33 ganti juga
 garis(30);
 echo "\ntotal kelompok = $tot\n";
 
-$data = array("Dandy", "Angga", "Anjar", "Lia", "Brian", "Kevin", "Alvian", "Farrel", "Zen", "Iqbal", "Wirawan", "Fauzi", "Aris", "Deby", "Adam", "Tia", "Asep", "Hazmi", "Rifqi", "Erika", "Dina", "Bidin", "Alwi", "Danu", "Solar", "Eko", "Dedy" "Yusak", "Hidan", "Kholis", "Wafi", "Fikri", "Faisal", "Yoshi", "Holil", "Endi", "Anhar") ;// sesuaikan dengan array kalian ( nama mahasiwa2 dikelas)
+$data = array("Dandy", "Angga", "Anjar", "Lia", "Brian", "Kevin", "Alvian", "Farrel", "Zen", "Iqbal", "Wirawan", "Fauzi", "Aris", "Deby", "Adam", "Tia", "Asep", "Hazmi", "Rifqi", "Erika", "Dina", "Bidin", "Alwi", "Danu", "Solar", "Eko", "Dedy", "Yusak", "Hidan", "Kholis", "Wafi", "Fikri", "Faisal", "Yoshi", "Holil", "Endi", "Anhar") ;// sesuaikan dengan array kalian ( nama mahasiwa2 dikelas)
 		
 for ($i = 1; $i<$tot; $i++){
 	garis(30);

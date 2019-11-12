@@ -35,7 +35,7 @@ for ($i = 1; $i<$tot; $i++){
 	garis(30);
 	echo "\nkelompok ke $i\n";
 	garis(30);
-	for ( $ii = 0; $ii<$jumlah; $ii++) {
+	for ( $ii = 1; $ii<$jumlah; $ii++) {
 shuffle($data);
 $hasil = array_shift($data);
 sleep(1);
